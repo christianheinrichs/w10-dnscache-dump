@@ -3,7 +3,7 @@ w10-dnscache-dump
 What’s this?
 
 Need to know the contents of the local DNS cache, yet don’t want to type in
-‘ipconfig /flushdns’ every time into the Windows command prompt?
+‘ipconfig /displaydns’ every time into the Windows command prompt?
 
 This batch file utilises that command and redirects its output into a file on
 your desktop. It then opens that file with Notepad for you to quickly check the
